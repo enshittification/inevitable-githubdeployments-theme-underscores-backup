@@ -8,6 +8,7 @@ With this template you can easily develop your theme and connect it with our [Wo
 
 ## Installation
 
+- Configure your SSH_PRIVATE_KEY...
 - Create a theme and follow the installation steps of [underscores.me GitHub repository](https://github.com/automattic/_s)
 - Connect your GitHub with WordPress.com [following these steps](https://wordpress.com/support/deploy-from-github-workflow)
 - Start developing and notice that each change will reflect in realtime on our servers
