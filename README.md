@@ -10,6 +10,7 @@ With this template you can easily develop your theme and connect it with our [Wo
 
 - Connect your GitHub with WordPress.com [following these steps](https://wordpress.com/support/deploy-from-github-workflow)
 - Once you have cloned this repository follow the installation steps of [Underscores Theme Boilerplate](https://github.com/automattic/_s)
+- Add the `SSH_PRIVATE_KEY` secret with your private GitHub for this repository on repository settings
 - Start developing and notice that each change will reflect in realtime on our servers
 
 [screenshot showing the connection]
