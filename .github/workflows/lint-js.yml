@@ -3,10 +3,10 @@ name: JS Code Linting
 on:
   pull_request:
     branches:
-      - trunk
+      - master
   push:
     branches:
-      - trunk
+      - master
 
 jobs:
   lint-js:
